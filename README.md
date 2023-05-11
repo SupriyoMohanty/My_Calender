@@ -6,7 +6,9 @@ To use this application, you will need Python installed on your system. You can 
 You can also download any Source Editor like Visual Studio Code to run python files
 
 You will also need to install the Tkinter and Calendar libraries. These libraries come pre-installed with most Python installations, but if they are not installed on your system, you can install them using pip:
+<br>
 pip install tk
+<br>
 pip install calendar
 
 **Usage**<br>
